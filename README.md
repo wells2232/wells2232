@@ -1,21 +1,30 @@
-👋 Olá, visitante!
-😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim.
+# 👋 Olá, visitante!
 
-🌟 Informações Públicas
-Meu nome é [Seu Nome Aqui] (também conhecido(a) como [Seu Nickname]). Atualmente, moro em [Cidade, País] e meu objetivo é ajudar outros desenvolvedores a alcançar seus sonhos e metas. 🚀
+😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim. 
 
-No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Desde [Ano] venho me envolvendo em projetos e iniciativas que impulsionam o crescimento da comunidade tecnológica. 🤝
+## 🌟 Informações Públicas
 
-Também realizo transmissões ao vivo de codificação 🎥, explorando novos conceitos e ensinando de forma interativa, promovendo o conceito de "aprender em público". Além disso, escrevo artigos e produzo vídeos, experiências que têm sido transformadoras na minha trajetória como desenvolvedor(a). ✍️📹
+Meu nome é **Wellington**. Atualmente, moro em **São José dos Campos - SP** e meu objetivo aprender e ajudar a resolver problemas como desenvolvedor de software. 🚀
 
-📝 Informações Detalhadas
-👤 Nome: Wellington
-🎂 Idade: 25 Anos  
-📍 Localização: São José dos Campos, SP - Brasil
-💻 Stack: React, TypeScript, JavaScript, HTML, CSS, Java
-📚 Aprendizado Atual: Atualmente estou aprendendo Java e C#.
-🎓 Formação: Análise e Desenvolvimento de Sistemas - 2° Semestre
-😎 # Curiosidades sobre Mim
-🎸 Sou apaixonado(a) por games e sonho em um dia criar meu próprio game.
-💡 Comecei a programar em 2024 e, desde então, venho me desafiando e aprendendo coisas novas.
-🤗 Acredito no poder da colaboração e estou sempre disposto(a) a ajudar quem busca evoluir na área de tecnologia.
+No meu tempo livre, gosto de jogar video-game, fazer arte 3D, e assistir filmes e séries. Desde **2024** venho me envolvendo em programação e estou cada dia mais apaixonado por essa área. 🤝
+
+## 📝 Informações Detalhadas
+
+<!-- Coloque suas informações pessoais que você deseja compartilhar -->
+
+- 👤 **Nome:** Wellington
+- 🎂 **Idade:** 25 Anos  
+- 📍 **Localização:** São José dos Campos, SP - Brasil  
+- 💻 **Stack:** React, TypeScript, JavaScript, HTML, CSS, Java  
+- 📚 **Aprendizado Atual:** Atualmente estou aprendendo Java e C#.
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas - 2° Semestre   
+
+## 😎 Curiosidades sobre Mim
+
+<!-- Coloque alguma curiosidade pra mostrar que você não é só código -->
+
+- 🎸 Sou apaixonado(a) por games e sonho em um dia criar meu próprio game.
+- 💡 Comecei a programar em **2024** e, desde então, venho me desafiando e aprendendo coisas novas.   
+- 🤗 Acredito no poder da colaboração e estou sempre disposto(a) a ajudar quem busca evoluir na área de tecnologia.   
+
+---
